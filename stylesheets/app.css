@@ -1,0 +1,82 @@
+.hg-logo	{
+	background: url('../images/hg-logo.png') no-repeat top center;
+	width: 124px;
+	height: 94px;
+	text-align: center;
+	font-size: 23px;
+	padding-top: 75px;
+	display: none;
+	position: absolute;
+}
+.hg-logo-2	{
+	background: url('../images/hg-logo-2.png') no-repeat top center;
+	width: 179px;
+	height: 85px;
+	text-align: center;
+	font-size: 23px;
+	padding-top: 20px;
+	display: none;
+	position: absolute;
+}
+.title	{
+	background: url('../images/title.png') no-repeat;
+	height:106px;
+	width: 576px;
+	position: absolute;
+	display: none;
+}
+.byline	{
+	color: white;
+	position: absolute;
+	text-align: center;
+	font-size: 45px;
+	display: none;
+}
+
+.nav	{
+	position: absolute;
+	text-align: center;
+	display:none;
+	z-index: 3;
+}
+.nav a	{
+	font-size: 22pt;
+	padding: 20px;
+}
+.datevenue	{
+	display: none;
+}
+.content	{
+	display: none;
+	position: absolute;
+}
+.content	{
+	width: 980px;
+	overflow: hidden;
+	position: relative;
+	height: 600px;
+}
+.content .cover	{
+	width: 4900px;
+	position: absolute;
+	height: 600px;
+}
+.content .content-slide	{
+	width: 980px;
+	float: left;
+	padding: 20px 0px;
+}
+
+.venue	{
+	height: 380px;
+	background: url('../images/map.jpg');
+}
+
+.venue p {
+	background: url('../images/black.png');
+	color: white;
+	width: 400px;
+	height: 320px;
+	margin-left: 500px;
+	padding: 30px;
+}
